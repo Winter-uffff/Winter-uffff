@@ -2,17 +2,7 @@
 
 - 💻 View my website (Down) [here](wwww)
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=RiisDev&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiisDev&layout=compact&theme=dark" alt="Top Langs"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RiisDev&show_icons=true&theme=dark" alt="GitHub stats"/>
-</p>
 
 
 <p align="left">
