@@ -1,6 +1,6 @@
 - Hello!
 
-- 📫 Reach me on discord `Axion| printidentity8`
+- 📫 Reach me on discord 
 
 - 💻 View my website (Down) [here](wwww)
 
